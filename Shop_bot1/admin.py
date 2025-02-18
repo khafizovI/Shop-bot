@@ -9,7 +9,7 @@ import random
 from aiogram import Bot
 
 
-ADMIN_ID = [5499596449, 802978542]
+ADMIN_ID = [Your_admin_id]
 
 router = Router()
 
